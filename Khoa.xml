@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Khoa>
+  <TenKhoa>Cong Nghe Thong Tin</TenKhoa>
+  <ViTri>B107</ViTri>
+  <SDT>0912345678</SDT>
+  <SoNganh>5</SoNganh>
+  <DSGV>
+      <GV>
+		<hoTen>Nguyen Hoang Thien</hoTen>
+		<soNhomHD>04</soNhomHD>
+	  </GV>
+	  <GV>
+		  <hoTen>Hoang Giang Nam</hoTen>
+		  <soNhomHD>01</soNhomHD>
+	  </GV>
+	  <GV>
+		  <hoTen>Mai Thanh Thien</hoTen>
+		  <soNhomHD>02</soNhomHD>
+	  </GV>
+	  <GV>
+		  <hoTen>Ho Nhat Nam</hoTen>
+		  <soNhomHD>05</soNhomHD>
+	  </GV>
+	  <GV>
+		  <hoTen>Chu Dieu An</hoTen>
+		  <soNhomHD>03</soNhomHD>
+	  </GV>
+  </DSGV>
+</Khoa>
